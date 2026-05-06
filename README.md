@@ -1,1 +1,1 @@
-# python-social-media-engagement-analytics
+This project analyses social media data to identify patterns in content performance, user behaviour, and engagement trends. Various visualization techniques and statistical summaries were used to derive insights from the dataset.
